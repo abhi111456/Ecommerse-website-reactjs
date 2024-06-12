@@ -12,7 +12,7 @@ export const Product=[
         name:'Blutooth',
         price:200,
         image:image1,
-        description:'The best product',
+        description:'Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz.[3] It is mainly used as an alternative to wired connections to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones. ',
         slug:'lorem20'
 
     },
@@ -21,7 +21,7 @@ export const Product=[
         name:'Headphone',
         price:400,
         image:image2,
-        description:'The best product',
+        description:'Headphone  is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz.[3] It is mainly used as an alternative to wired connections to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones. ',
         slug:'lorem20'
 
     },
@@ -30,7 +30,7 @@ export const Product=[
         name:'Blutooth best quality',
         price:900,
         image:image3,
-        description:'The best product',
+        description:'Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz.[3] It is mainly used as an alternative to wired connections to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones. ',
         slug:'lorem20'
 
     }
@@ -40,7 +40,7 @@ export const Product=[
         name:'speaker',
         price:2200,
         image:image4,
-        description:'The best product',
+        description:'speaker  is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz.[3] It is mainly used as an alternative to wired connections to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones. ',
         slug:'lorem20'
 
     },
@@ -49,7 +49,7 @@ export const Product=[
         name:'laptop',
         price:44200,
         image:image5,
-        description:'The best product',
+        description:'laptop  is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz.[3] It is mainly used as an alternative to wired connections to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones. ',
         slug:'lorem20'
 
     },
@@ -58,7 +58,7 @@ export const Product=[
         name:'Blutooth speaker',
         price:2100,
         image:image6,
-        description:'The best product',
+        description:'blutooth speaker Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz.[3] It is mainly used as an alternative to wired connections to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones. ',
         slug:'lorem20'
 
     },
@@ -67,7 +67,7 @@ export const Product=[
         name:'earbuds',
         price:1200,
         image:image7,
-        description:'The best product',
+        description:'earbuds is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz.[3] It is mainly used as an alternative to wired connections to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones. ',
         slug:'lorem20'
 
     },
@@ -76,7 +76,7 @@ export const Product=[
         name:'screen',
         price:2000,
         image:image8,
-        description:'The best product',
+        description:'screen is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). In the most widely used mode, transmission power is limited to 2.5 milliwatts, giving it a very short range of up to 10 metres (33 ft). It employs UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz.[3] It is mainly used as an alternative to wired connections to exchange files between nearby portable devices and connect cell phones and music players with wireless headphones. ',
         slug:'lorem20'
 
     },
