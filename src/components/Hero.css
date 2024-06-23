@@ -1,44 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;700&display=swap");
 
-  
-  .speaker_container {
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Titillium Web", sans-serif;
+}
+
+.speaker {
     display: flex;
     align-items: center;
-    justify-content:center;
+    justify-content: center;
     width: 100%;
-    height: 49.5rem;
+    height: 100vh; /* Full viewport height */
+    background: url('../assets/behar-zenuni-U1-pZAXmRmM-unsplash.jpg') no-repeat center center/cover;
+}
+
+.speaker_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    max-width: 1240px; /* Maintain a max width */
     border-radius: 10px;
     background-size: cover;
     background-position: center;
-  }
-  
-  .speaker_content {
+}
+
+.speaker_content {
     width: 45%;
-    margin: 0px;
-    padding: 0px;
     color: #fff;
-  }
-  
-  .speaker_title {
+    text-align: center; /* Center text alignment */
+}
+
+.speaker_title {
     font-size: 5rem;
-    color: #fff;
-   
-  }
-  
-  .speaker_titlee {
     margin-bottom: 22px;
-    font-size: 3rem;
-  }
-  
-  .speaker_text {
+    color: #fff;
+}
+
+.speaker_text {
     margin-bottom: 50px;
-    font-size: 14px;
+    font-size: 1rem; /* Adjusted for readability */
     color: azure;
     font-weight: bold;
-    width: 50%;
+    width: 100%; /* Use full width */
     line-height: 1.5;
-  }
-  
-  .speaker_btn {
+}
+
+.speaker_btn {
     color: #fff;
     background-color: rgba(31, 28, 28, 0.813);
     text-decoration: none;
@@ -46,6 +57,22 @@
     border-radius: 10px;
     font-size: 1rem;
     padding: 1rem 1.8rem;
+}
+
+@media (max-width: 768px) {
+    .speaker_content {
+        width: 80%; /* Adjust for smaller screens */
     }
- 
-  
+
+    .speaker_title {
+        font-size: 3rem;
+    }
+
+    .speaker_text {
+        font-size: 0.875rem; /* Smaller font size for smaller screens */
+    }
+
+    .speaker_btn {
+        font-size: 0.875rem; /* Adjust button size */
+    }
+}

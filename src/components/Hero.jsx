@@ -4,9 +4,8 @@ import speakerBackground from '../assets/behar-zenuni-U1-pZAXmRmM-unsplash.jpg';
 
 const Hero = () => {
   return (
-  
     <section className="speaker">
-      <div className="container speaker_container" style={{ backgroundImage: `url(${speakerBackground})` }}>
+      <div className="container speaker_container">
         <div className="speaker_content">
           <h1 className="speaker_title">ZX9 SPEAKER</h1>
           <p className="speaker_text">
